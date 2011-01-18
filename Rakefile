@@ -17,7 +17,7 @@ Jeweler::Tasks.new do |gem|
   gem.license = "MIT"
   gem.summary = %Q{deliver email in background}
   gem.description = %Q{deliver email in the background}
-  gem.email = "ryan@socialcast.com"
+  gem.email = "ryan@codecrate.com"
   gem.authors = ["Ryan Sonnek"]
   # Include your dependencies below. Runtime dependencies are required when using your gem,
   # and development dependencies are only needed for development (ie running rake tasks, tests, etc)
