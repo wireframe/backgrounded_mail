@@ -1,6 +1,14 @@
 = backgrounded_mail
 
-Description goes here.
+Send emails in the background
+
+== Usage
+
+  #construct your email
+  mail = Mail.new
+
+  #send your email in the background
+  mail.deliver_backgrounded
 
 == Contributing to backgrounded_mail
  
