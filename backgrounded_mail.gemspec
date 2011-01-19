@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "VERSION",
+    "backgrounded_mail.gemspec",
     "lib/backgrounded_mail.rb",
     "test/helper.rb",
     "test/test_backgrounded_mail.rb"
